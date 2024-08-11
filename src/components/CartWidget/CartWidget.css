@@ -1,0 +1,16 @@
+.logoCart{
+    height: 35px;
+    background-color: aqua;
+    padding: 5px;
+    padding-right: 9px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.cartCount{
+    color: blueviolet;
+    font-size: 26px;
+    font-weight: 500;
+    padding-left: 10px;
+    margin-left: 10px;
+}

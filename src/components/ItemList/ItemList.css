@@ -1,0 +1,9 @@
+.storecard{
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 15px;
+    background-color: rgba(137, 43, 226, 0.44);
+    border-radius: 5px;
+}

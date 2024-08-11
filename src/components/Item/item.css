@@ -1,0 +1,21 @@
+.art{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 250px;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.imgArt {
+    width: 200px;
+    padding: 15px 5px;
+    background-color: white;
+    border-radius: 5px;
+}

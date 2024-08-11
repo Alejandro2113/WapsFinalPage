@@ -1,0 +1,11 @@
+.navbar a{
+    color: blueviolet!important;
+    font-size: 32px;
+    font-weight: 400!important;
+}
+
+section a{
+    text-decoration: none;
+    font-size: large;
+    padding: 10px;
+}
